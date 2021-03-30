@@ -1,0 +1,185 @@
+
+Active Connections
+
+  Proto  Local Address          Foreign Address        State
+  TCP    0.0.0.0:135            Xuhao-3950x:0          LISTENING
+  TCP    0.0.0.0:443            Xuhao-3950x:0          LISTENING
+  TCP    0.0.0.0:445            Xuhao-3950x:0          LISTENING
+  TCP    0.0.0.0:903            Xuhao-3950x:0          LISTENING
+  TCP    0.0.0.0:913            Xuhao-3950x:0          LISTENING
+  TCP    0.0.0.0:3389           Xuhao-3950x:0          LISTENING
+  TCP    0.0.0.0:5040           Xuhao-3950x:0          LISTENING
+  TCP    0.0.0.0:5357           Xuhao-3950x:0          LISTENING
+  TCP    0.0.0.0:7680           Xuhao-3950x:0          LISTENING
+  TCP    0.0.0.0:49664          Xuhao-3950x:0          LISTENING
+  TCP    0.0.0.0:49665          Xuhao-3950x:0          LISTENING
+  TCP    0.0.0.0:49666          Xuhao-3950x:0          LISTENING
+  TCP    0.0.0.0:49667          Xuhao-3950x:0          LISTENING
+  TCP    0.0.0.0:49668          Xuhao-3950x:0          LISTENING
+  TCP    0.0.0.0:49669          Xuhao-3950x:0          LISTENING
+  TCP    0.0.0.0:49671          Xuhao-3950x:0          LISTENING
+  TCP    25.33.6.202:139        Xuhao-3950x:0          LISTENING
+  TCP    127.0.0.1:443          Xuhao-3950x:60893      ESTABLISHED
+  TCP    127.0.0.1:5939         Xuhao-3950x:0          LISTENING
+  TCP    127.0.0.1:5939         Xuhao-3950x:49736      ESTABLISHED
+  TCP    127.0.0.1:6463         Xuhao-3950x:0          LISTENING
+  TCP    127.0.0.1:8307         Xuhao-3950x:0          LISTENING
+  TCP    127.0.0.1:37014        Xuhao-3950x:0          LISTENING
+  TCP    127.0.0.1:44312        Xuhao-3950x:0          LISTENING
+  TCP    127.0.0.1:49736        Xuhao-3950x:5939       ESTABLISHED
+  TCP    127.0.0.1:49739        Xuhao-3950x:49740      ESTABLISHED
+  TCP    127.0.0.1:49740        Xuhao-3950x:49739      ESTABLISHED
+  TCP    127.0.0.1:49766        Xuhao-3950x:49767      ESTABLISHED
+  TCP    127.0.0.1:49767        Xuhao-3950x:49766      ESTABLISHED
+  TCP    127.0.0.1:49771        Xuhao-3950x:49772      ESTABLISHED
+  TCP    127.0.0.1:49772        Xuhao-3950x:49771      ESTABLISHED
+  TCP    127.0.0.1:49773        Xuhao-3950x:49774      ESTABLISHED
+  TCP    127.0.0.1:49774        Xuhao-3950x:49773      ESTABLISHED
+  TCP    127.0.0.1:50054        Xuhao-3950x:50055      ESTABLISHED
+  TCP    127.0.0.1:50055        Xuhao-3950x:50054      ESTABLISHED
+  TCP    127.0.0.1:50081        Xuhao-3950x:50082      ESTABLISHED
+  TCP    127.0.0.1:50082        Xuhao-3950x:50081      ESTABLISHED
+  TCP    127.0.0.1:50911        Xuhao-3950x:0          LISTENING
+  TCP    127.0.0.1:50912        Xuhao-3950x:0          LISTENING
+  TCP    127.0.0.1:55428        Xuhao-3950x:55429      ESTABLISHED
+  TCP    127.0.0.1:55429        Xuhao-3950x:55428      ESTABLISHED
+  TCP    127.0.0.1:60887        Xuhao-3950x:https      TIME_WAIT
+  TCP    127.0.0.1:60893        Xuhao-3950x:https      ESTABLISHED
+  TCP    192.168.1.32:139       Xuhao-3950x:0          LISTENING
+  TCP    192.168.1.32:3389      91.213.50.125:53584    ESTABLISHED
+  TCP    192.168.1.32:7680      Gillien-Desktop:61717  TIME_WAIT
+  TCP    192.168.1.32:7680      Gillien-Desktop:61718  TIME_WAIT
+  TCP    192.168.1.32:49684     US-DAL-IBM-R013:5938   ESTABLISHED
+  TCP    192.168.1.32:49708     173.199.31.58:12975    ESTABLISHED
+  TCP    192.168.1.32:49738     104.16.62.16:https     CLOSE_WAIT
+  TCP    192.168.1.32:49741     52.242.211.89:https    ESTABLISHED
+  TCP    192.168.1.32:49759     ord30s26-in-f14:https  CLOSE_WAIT
+  TCP    192.168.1.32:49833     a173-222-52-25:https   CLOSE_WAIT
+  TCP    192.168.1.32:50034     edge-star-shv-02-ort2:https  ESTABLISHED
+  TCP    192.168.1.32:55426     52.96.79.226:https     ESTABLISHED
+  TCP    192.168.1.32:55656     162.159.133.234:https  ESTABLISHED
+  TCP    192.168.1.32:55685     S01069050cad0ad53:33389  ESTABLISHED
+  TCP    192.168.1.32:55769     142.250.123.188:5228   ESTABLISHED
+  TCP    192.168.1.32:55797     ec2-52-205-58-53:https  ESTABLISHED
+  TCP    192.168.1.32:60753     edge-star-shv-02-ort2:https  ESTABLISHED
+  TCP    192.168.1.32:60776     151.101.184.193:https  TIME_WAIT
+  TCP    192.168.1.32:60836     72.21.81.200:https     CLOSE_WAIT
+  TCP    192.168.1.32:60853     lb-140-82-114-25-iad:https  ESTABLISHED
+  TCP    192.168.1.32:60863     72.21.81.200:https     TIME_WAIT
+  TCP    192.168.1.32:60864     a23-47-52-183:https    ESTABLISHED
+  TCP    192.168.1.32:60865     a23-79-196-110:https   ESTABLISHED
+  TCP    192.168.1.32:60868     152.199.4.33:https     TIME_WAIT
+  TCP    192.168.1.32:60871     a23-79-196-110:https   ESTABLISHED
+  TCP    192.168.1.32:60873     53:https               TIME_WAIT
+  TCP    192.168.1.32:60874     229:https              TIME_WAIT
+  TCP    192.168.1.32:60878     136:https              TIME_WAIT
+  TCP    192.168.1.32:60882     162.159.128.233:https  ESTABLISHED
+  TCP    192.168.1.32:60883     ord38s04-in-f3:https   ESTABLISHED
+  TCP    192.168.1.32:60889     lga15s47-in-f74:https  ESTABLISHED
+  TCP    192.168.1.32:60890     162.159.133.232:https  ESTABLISHED
+  TCP    192.168.1.32:60891     a23-79-215-205:https   TIME_WAIT
+  TCP    192.168.3.1:139        Xuhao-3950x:0          LISTENING
+  TCP    [::]:135               Xuhao-3950x:0          LISTENING
+  TCP    [::]:443               Xuhao-3950x:0          LISTENING
+  TCP    [::]:445               Xuhao-3950x:0          LISTENING
+  TCP    [::]:3389              Xuhao-3950x:0          LISTENING
+  TCP    [::]:5357              Xuhao-3950x:0          LISTENING
+  TCP    [::]:7680              Xuhao-3950x:0          LISTENING
+  TCP    [::]:49664             Xuhao-3950x:0          LISTENING
+  TCP    [::]:49665             Xuhao-3950x:0          LISTENING
+  TCP    [::]:49666             Xuhao-3950x:0          LISTENING
+  TCP    [::]:49667             Xuhao-3950x:0          LISTENING
+  TCP    [::]:49668             Xuhao-3950x:0          LISTENING
+  TCP    [::]:49669             Xuhao-3950x:0          LISTENING
+  TCP    [::]:49671             Xuhao-3950x:0          LISTENING
+  TCP    [::1]:8307             Xuhao-3950x:0          LISTENING
+  TCP    [::1]:8307             Xuhao-3950x:60894      CLOSE_WAIT
+  TCP    [::1]:8307             Xuhao-3950x:60901      ESTABLISHED
+  TCP    [::1]:49797            Xuhao-3950x:49798      ESTABLISHED
+  TCP    [::1]:49798            Xuhao-3950x:49797      ESTABLISHED
+  TCP    [::1]:60894            Xuhao-3950x:8307       FIN_WAIT_2
+  TCP    [::1]:60901            Xuhao-3950x:8307       ESTABLISHED
+  TCP    [2620:9b::1921:6ca]:60906  whois:nicname          SYN_SENT
+  UDP    0.0.0.0:3389           *:*                    
+  UDP    0.0.0.0:3702           *:*                    
+  UDP    0.0.0.0:3702           *:*                    
+  UDP    0.0.0.0:3702           *:*                    
+  UDP    0.0.0.0:3702           *:*                    
+  UDP    0.0.0.0:5050           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5355           *:*                    
+  UDP    0.0.0.0:49511          *:*                    
+  UDP    0.0.0.0:49513          *:*                    
+  UDP    0.0.0.0:50173          *:*                    
+  UDP    0.0.0.0:54433          *:*                    
+  UDP    0.0.0.0:54434          *:*                    
+  UDP    0.0.0.0:54471          *:*                    
+  UDP    0.0.0.0:54915          *:*                    
+  UDP    0.0.0.0:56328          *:*                    
+  UDP    0.0.0.0:57836          *:*                    
+  UDP    0.0.0.0:58674          *:*                    
+  UDP    0.0.0.0:64792          *:*                    
+  UDP    25.33.6.202:137        *:*                    
+  UDP    25.33.6.202:138        *:*                    
+  UDP    25.33.6.202:1900       *:*                    
+  UDP    25.33.6.202:2177       *:*                    
+  UDP    25.33.6.202:5353       *:*                    
+  UDP    25.33.6.202:52887      *:*                    
+  UDP    127.0.0.1:1900         *:*                    
+  UDP    127.0.0.1:52890        *:*                    
+  UDP    127.0.0.1:57488        *:*                    
+  UDP    192.168.1.32:137       *:*                    
+  UDP    192.168.1.32:138       *:*                    
+  UDP    192.168.1.32:1900      *:*                    
+  UDP    192.168.1.32:2177      *:*                    
+  UDP    192.168.1.32:5353      *:*                    
+  UDP    192.168.1.32:52889     *:*                    
+  UDP    192.168.1.32:54470     *:*                    
+  UDP    192.168.3.1:137        *:*                    
+  UDP    192.168.3.1:138        *:*                    
+  UDP    192.168.3.1:1900       *:*                    
+  UDP    192.168.3.1:2177       *:*                    
+  UDP    192.168.3.1:5353       *:*                    
+  UDP    192.168.3.1:52888      *:*                    
+  UDP    [::]:3389              *:*                    
+  UDP    [::]:3702              *:*                    
+  UDP    [::]:3702              *:*                    
+  UDP    [::]:3702              *:*                    
+  UDP    [::]:3702              *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5355              *:*                    
+  UDP    [::]:49512             *:*                    
+  UDP    [::]:49514             *:*                    
+  UDP    [::]:54915             *:*                    
+  UDP    [::]:58675             *:*                    
+  UDP    [::1]:1900             *:*                    
+  UDP    [::1]:5353             *:*                    
+  UDP    [::1]:52886            *:*                    
+  UDP    [2620:9b::1921:6ca]:2177  *:*                    
+  UDP    [fe80::9bb:49fb:eea9:6563%26]:1900  *:*                    
+  UDP    [fe80::9bb:49fb:eea9:6563%26]:2177  *:*                    
+  UDP    [fe80::9bb:49fb:eea9:6563%26]:52884  *:*                    
+  UDP    [fe80::3848:badc:a709:99df%9]:1900  *:*                    
+  UDP    [fe80::3848:badc:a709:99df%9]:2177  *:*                    
+  UDP    [fe80::3848:badc:a709:99df%9]:52883  *:*                    
+  UDP    [fe80::3db1:22cf:616f:4960%31]:1900  *:*                    
+  UDP    [fe80::3db1:22cf:616f:4960%31]:2177  *:*                    
+  UDP    [fe80::3db1:22cf:616f:4960%31]:52885  *:*                    

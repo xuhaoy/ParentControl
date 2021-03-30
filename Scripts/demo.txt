@@ -1,0 +1,401 @@
+
+Active Connections
+
+  Proto  Local Address          Foreign Address        State           PID
+  TCP    0.0.0.0:135            0.0.0.0:0              LISTENING       1196
+  RpcEptMapper
+ [svchost.exe]
+  TCP    0.0.0.0:443            0.0.0.0:0              LISTENING       8556
+ [vmware-hostd.exe]
+  TCP    0.0.0.0:445            0.0.0.0:0              LISTENING       4
+ Can not obtain ownership information
+  TCP    0.0.0.0:903            0.0.0.0:0              LISTENING       6204
+ [vmware-authd.exe]
+  TCP    0.0.0.0:913            0.0.0.0:0              LISTENING       6204
+ [vmware-authd.exe]
+  TCP    0.0.0.0:3389           0.0.0.0:0              LISTENING       1476
+  TermService
+ [svchost.exe]
+  TCP    0.0.0.0:5040           0.0.0.0:0              LISTENING       9924
+  CDPSvc
+ [svchost.exe]
+  TCP    0.0.0.0:5357           0.0.0.0:0              LISTENING       4
+ Can not obtain ownership information
+  TCP    0.0.0.0:7680           0.0.0.0:0              LISTENING       4296
+ Can not obtain ownership information
+  TCP    0.0.0.0:49664          0.0.0.0:0              LISTENING       688
+ [lsass.exe]
+  TCP    0.0.0.0:49665          0.0.0.0:0              LISTENING       1004
+ Can not obtain ownership information
+  TCP    0.0.0.0:49666          0.0.0.0:0              LISTENING       1764
+  EventLog
+ [svchost.exe]
+  TCP    0.0.0.0:49667          0.0.0.0:0              LISTENING       1808
+  Schedule
+ [svchost.exe]
+  TCP    0.0.0.0:49668          0.0.0.0:0              LISTENING       3048
+  SessionEnv
+ [svchost.exe]
+  TCP    0.0.0.0:49669          0.0.0.0:0              LISTENING       5952
+ [spoolsv.exe]
+  TCP    0.0.0.0:49671          0.0.0.0:0              LISTENING       192
+ Can not obtain ownership information
+  TCP    25.33.6.202:139        0.0.0.0:0              LISTENING       4
+ Can not obtain ownership information
+  TCP    127.0.0.1:443          127.0.0.1:49962        ESTABLISHED     8556
+ [vmware-hostd.exe]
+  TCP    127.0.0.1:5939         0.0.0.0:0              LISTENING       11636
+ [TeamViewer_Service.exe]
+  TCP    127.0.0.1:5939         127.0.0.1:53420        ESTABLISHED     11636
+ [TeamViewer_Service.exe]
+  TCP    127.0.0.1:6463         0.0.0.0:0              LISTENING       1084
+ [Discord.exe]
+  TCP    127.0.0.1:8307         0.0.0.0:0              LISTENING       8556
+ [vmware-hostd.exe]
+  TCP    127.0.0.1:37014        0.0.0.0:0              LISTENING       11636
+ [TeamViewer_Service.exe]
+  TCP    127.0.0.1:44312        0.0.0.0:0              LISTENING       11636
+ [TeamViewer_Service.exe]
+  TCP    127.0.0.1:49749        127.0.0.1:49750        ESTABLISHED     15188
+ [vmware.exe]
+  TCP    127.0.0.1:49750        127.0.0.1:49749        ESTABLISHED     15188
+ [vmware.exe]
+  TCP    127.0.0.1:49777        127.0.0.1:49778        ESTABLISHED     15188
+ [vmware.exe]
+  TCP    127.0.0.1:49778        127.0.0.1:49777        ESTABLISHED     15188
+ [vmware.exe]
+  TCP    127.0.0.1:49779        127.0.0.1:49780        ESTABLISHED     15188
+ [vmware.exe]
+  TCP    127.0.0.1:49780        127.0.0.1:49779        ESTABLISHED     15188
+ [vmware.exe]
+  TCP    127.0.0.1:49850        127.0.0.1:49851        ESTABLISHED     6204
+ [vmware-authd.exe]
+  TCP    127.0.0.1:49851        127.0.0.1:49850        ESTABLISHED     6204
+ [vmware-authd.exe]
+  TCP    127.0.0.1:49852        127.0.0.1:49853        ESTABLISHED     6204
+ [vmware-authd.exe]
+  TCP    127.0.0.1:49853        127.0.0.1:49852        ESTABLISHED     6204
+ [vmware-authd.exe]
+  TCP    127.0.0.1:49958        127.0.0.1:443          TIME_WAIT       0
+  TCP    127.0.0.1:49962        127.0.0.1:443          ESTABLISHED     15188
+ [vmware.exe]
+  TCP    127.0.0.1:50911        0.0.0.0:0              LISTENING       6248
+ [ss_conn_service.exe]
+  TCP    127.0.0.1:50912        0.0.0.0:0              LISTENING       6324
+ [ss_conn_service2.exe]
+  TCP    127.0.0.1:53420        127.0.0.1:5939         ESTABLISHED     2136
+ [TeamViewer.exe]
+  TCP    127.0.0.1:53422        127.0.0.1:53423        ESTABLISHED     2136
+ [TeamViewer.exe]
+  TCP    127.0.0.1:53423        127.0.0.1:53422        ESTABLISHED     2136
+ [TeamViewer.exe]
+  TCP    127.0.0.1:54110        127.0.0.1:54111        ESTABLISHED     11636
+ [TeamViewer_Service.exe]
+  TCP    127.0.0.1:54111        127.0.0.1:54110        ESTABLISHED     11636
+ [TeamViewer_Service.exe]
+  TCP    127.0.0.1:54686        127.0.0.1:54687        ESTABLISHED     6204
+ [vmware-authd.exe]
+  TCP    127.0.0.1:54687        127.0.0.1:54686        ESTABLISHED     6204
+ [vmware-authd.exe]
+  TCP    192.168.1.32:139       0.0.0.0:0              LISTENING       4
+ Can not obtain ownership information
+  TCP    192.168.1.32:3389      94.232.47.180:16647    ESTABLISHED     1476
+  TermService
+ [svchost.exe]
+  TCP    192.168.1.32:7680      192.168.1.33:55545     TIME_WAIT       0
+  TCP    192.168.1.32:7680      192.168.1.33:55546     TIME_WAIT       0
+  TCP    192.168.1.32:49715     52.230.222.68:443      ESTABLISHED     6172
+  WpnService
+ [svchost.exe]
+  TCP    192.168.1.32:49723     173.199.31.52:12975    ESTABLISHED     6220
+ [hamachi-2.exe]
+  TCP    192.168.1.32:49809     173.222.52.25:443      CLOSE_WAIT      15188
+ [vmware.exe]
+  TCP    192.168.1.32:49905     198.252.206.25:443     ESTABLISHED     9748
+ [chrome.exe]
+  TCP    192.168.1.32:49945     52.96.79.162:443       ESTABLISHED     15880
+ [HxTsr.exe]
+  TCP    192.168.1.32:49946     52.96.79.162:443       ESTABLISHED     15880
+ [HxTsr.exe]
+  TCP    192.168.1.32:49947     72.21.81.200:443       CLOSE_WAIT      11872
+ [SearchUI.exe]
+  TCP    192.168.1.32:49955     140.82.113.26:443      ESTABLISHED     9748
+ [chrome.exe]
+  TCP    192.168.1.32:49956     151.101.129.140:443    ESTABLISHED     9748
+ [chrome.exe]
+  TCP    192.168.1.32:49957     151.101.129.140:443    ESTABLISHED     9748
+ [chrome.exe]
+  TCP    192.168.1.32:49961     104.114.160.177:443    ESTABLISHED     9748
+ [chrome.exe]
+  TCP    192.168.1.32:53421     104.16.63.16:443       CLOSE_WAIT      2136
+ [TeamViewer.exe]
+  TCP    192.168.1.32:54900     169.60.90.38:80        ESTABLISHED     11636
+ [TeamViewer_Service.exe]
+  TCP    192.168.1.32:54901     169.60.90.38:80        ESTABLISHED     11636
+ [TeamViewer_Service.exe]
+  TCP    192.168.1.32:61650     142.250.112.188:5228   ESTABLISHED     9748
+ [chrome.exe]
+  TCP    192.168.1.32:63576     162.159.130.234:443    ESTABLISHED     16848
+ [Discord.exe]
+  TCP    192.168.1.32:64012     142.250.123.108:993    ESTABLISHED     15880
+ [HxTsr.exe]
+  TCP    192.168.1.32:64013     142.250.123.108:993    ESTABLISHED     15880
+ [HxTsr.exe]
+  TCP    192.168.1.32:64217     104.244.42.136:443     ESTABLISHED     9748
+ [chrome.exe]
+  TCP    192.168.1.32:65141     185.184.8.30:443       TIME_WAIT       0
+  TCP    192.168.1.32:65300     44.238.130.199:443     ESTABLISHED     9748
+ [chrome.exe]
+  TCP    192.168.1.32:65368     151.101.130.49:443     TIME_WAIT       0
+  TCP    192.168.1.32:65370     151.101.2.114:443      TIME_WAIT       0
+  TCP    192.168.1.32:65371     151.101.184.157:443    TIME_WAIT       0
+  TCP    192.168.1.32:65372     151.101.194.49:443     TIME_WAIT       0
+  TCP    192.168.1.32:65383     151.101.194.49:443     TIME_WAIT       0
+  TCP    192.168.1.32:65424     151.101.1.69:443       ESTABLISHED     9748
+ [chrome.exe]
+  TCP    192.168.1.32:65429     151.101.184.193:443    ESTABLISHED     9748
+ [chrome.exe]
+  TCP    192.168.3.1:139        0.0.0.0:0              LISTENING       4
+ Can not obtain ownership information
+  TCP    [::]:135               [::]:0                 LISTENING       1196
+  RpcEptMapper
+ [svchost.exe]
+  TCP    [::]:443               [::]:0                 LISTENING       8556
+ [vmware-hostd.exe]
+  TCP    [::]:445               [::]:0                 LISTENING       4
+ Can not obtain ownership information
+  TCP    [::]:3389              [::]:0                 LISTENING       1476
+  TermService
+ [svchost.exe]
+  TCP    [::]:5357              [::]:0                 LISTENING       4
+ Can not obtain ownership information
+  TCP    [::]:7680              [::]:0                 LISTENING       4296
+ Can not obtain ownership information
+  TCP    [::]:49664             [::]:0                 LISTENING       688
+ [lsass.exe]
+  TCP    [::]:49665             [::]:0                 LISTENING       1004
+ Can not obtain ownership information
+  TCP    [::]:49666             [::]:0                 LISTENING       1764
+  EventLog
+ [svchost.exe]
+  TCP    [::]:49667             [::]:0                 LISTENING       1808
+  Schedule
+ [svchost.exe]
+  TCP    [::]:49668             [::]:0                 LISTENING       3048
+  SessionEnv
+ [svchost.exe]
+  TCP    [::]:49669             [::]:0                 LISTENING       5952
+ [spoolsv.exe]
+  TCP    [::]:49671             [::]:0                 LISTENING       192
+ Can not obtain ownership information
+  TCP    [::1]:8307             [::]:0                 LISTENING       8556
+ [vmware-hostd.exe]
+  TCP    [::1]:8307             [::1]:49959            CLOSE_WAIT      8556
+ [vmware-hostd.exe]
+  TCP    [::1]:8307             [::1]:49963            ESTABLISHED     8556
+ [vmware-hostd.exe]
+  TCP    [::1]:49782            [::1]:49783            ESTABLISHED     15188
+ [vmware.exe]
+  TCP    [::1]:49783            [::1]:49782            ESTABLISHED     15188
+ [vmware.exe]
+  TCP    [::1]:49959            [::1]:8307             FIN_WAIT_2      8556
+ [vmware-hostd.exe]
+  TCP    [::1]:49963            [::1]:8307             ESTABLISHED     8556
+ [vmware-hostd.exe]
+  UDP    0.0.0.0:3389           *:*                                    1476
+  TermService
+ [svchost.exe]
+  UDP    0.0.0.0:3702           *:*                                    3604
+ [dashost.exe]
+  UDP    0.0.0.0:3702           *:*                                    10180
+  FDResPub
+ [svchost.exe]
+  UDP    0.0.0.0:3702           *:*                                    10180
+  FDResPub
+ [svchost.exe]
+  UDP    0.0.0.0:3702           *:*                                    3604
+ [dashost.exe]
+  UDP    0.0.0.0:5050           *:*                                    9924
+  CDPSvc
+ [svchost.exe]
+  UDP    0.0.0.0:5353           *:*                                    10472
+ [chrome.exe]
+  UDP    0.0.0.0:5353           *:*                                    10472
+ [chrome.exe]
+  UDP    0.0.0.0:5353           *:*                                    2804
+  Dnscache
+ [svchost.exe]
+  UDP    0.0.0.0:5353           *:*                                    9748
+ [chrome.exe]
+  UDP    0.0.0.0:5353           *:*                                    9748
+ [chrome.exe]
+  UDP    0.0.0.0:5353           *:*                                    10472
+ [chrome.exe]
+  UDP    0.0.0.0:5353           *:*                                    9748
+ [chrome.exe]
+  UDP    0.0.0.0:5353           *:*                                    10472
+ [chrome.exe]
+  UDP    0.0.0.0:5353           *:*                                    10472
+ [chrome.exe]
+  UDP    0.0.0.0:5353           *:*                                    9748
+ [chrome.exe]
+  UDP    0.0.0.0:5353           *:*                                    9748
+ [chrome.exe]
+  UDP    0.0.0.0:5353           *:*                                    9748
+ [chrome.exe]
+  UDP    0.0.0.0:5353           *:*                                    10472
+ [chrome.exe]
+  UDP    0.0.0.0:5355           *:*                                    2804
+  Dnscache
+ [svchost.exe]
+  UDP    0.0.0.0:51762          *:*                                    3604
+ [dashost.exe]
+  UDP    0.0.0.0:54915          *:*                                    12416
+ [LCore.exe]
+  UDP    0.0.0.0:55422          *:*                                    9748
+ [chrome.exe]
+  UDP    0.0.0.0:56269          *:*                                    3604
+ [dashost.exe]
+  UDP    0.0.0.0:56462          *:*                                    10180
+  FDResPub
+ [svchost.exe]
+  UDP    0.0.0.0:59125          *:*                                    11636
+ [TeamViewer_Service.exe]
+  UDP    0.0.0.0:64218          *:*                                    6220
+ [hamachi-2.exe]
+  UDP    25.33.6.202:137        *:*                                    4
+ Can not obtain ownership information
+  UDP    25.33.6.202:138        *:*                                    4
+ Can not obtain ownership information
+  UDP    25.33.6.202:1900       *:*                                    4124
+  SSDPSRV
+ [svchost.exe]
+  UDP    25.33.6.202:2177       *:*                                    4144
+  QWAVE
+ [svchost.exe]
+  UDP    25.33.6.202:5353       *:*                                    11636
+ [TeamViewer_Service.exe]
+  UDP    25.33.6.202:56698      *:*                                    4124
+  SSDPSRV
+ [svchost.exe]
+  UDP    127.0.0.1:1900         *:*                                    4124
+  SSDPSRV
+ [svchost.exe]
+  UDP    127.0.0.1:56701        *:*                                    4124
+  SSDPSRV
+ [svchost.exe]
+  UDP    127.0.0.1:57464        *:*                                    4964
+  iphlpsvc
+ [svchost.exe]
+  UDP    192.168.1.32:137       *:*                                    4
+ Can not obtain ownership information
+  UDP    192.168.1.32:138       *:*                                    4
+ Can not obtain ownership information
+  UDP    192.168.1.32:1900      *:*                                    4124
+  SSDPSRV
+ [svchost.exe]
+  UDP    192.168.1.32:2177      *:*                                    4144
+  QWAVE
+ [svchost.exe]
+  UDP    192.168.1.32:5353      *:*                                    11636
+ [TeamViewer_Service.exe]
+  UDP    192.168.1.32:56700     *:*                                    4124
+  SSDPSRV
+ [svchost.exe]
+  UDP    192.168.1.32:64217     *:*                                    6220
+ [hamachi-2.exe]
+  UDP    192.168.3.1:137        *:*                                    4
+ Can not obtain ownership information
+  UDP    192.168.3.1:138        *:*                                    4
+ Can not obtain ownership information
+  UDP    192.168.3.1:1900       *:*                                    4124
+  SSDPSRV
+ [svchost.exe]
+  UDP    192.168.3.1:2177       *:*                                    4144
+  QWAVE
+ [svchost.exe]
+  UDP    192.168.3.1:5353       *:*                                    11636
+ [TeamViewer_Service.exe]
+  UDP    192.168.3.1:56699      *:*                                    4124
+  SSDPSRV
+ [svchost.exe]
+  UDP    [::]:3389              *:*                                    1476
+  TermService
+ [svchost.exe]
+  UDP    [::]:3702              *:*                                    3604
+ [dashost.exe]
+  UDP    [::]:3702              *:*                                    10180
+  FDResPub
+ [svchost.exe]
+  UDP    [::]:3702              *:*                                    3604
+ [dashost.exe]
+  UDP    [::]:3702              *:*                                    10180
+  FDResPub
+ [svchost.exe]
+  UDP    [::]:5353              *:*                                    9748
+ [chrome.exe]
+  UDP    [::]:5353              *:*                                    10472
+ [chrome.exe]
+  UDP    [::]:5353              *:*                                    10472
+ [chrome.exe]
+  UDP    [::]:5353              *:*                                    9748
+ [chrome.exe]
+  UDP    [::]:5353              *:*                                    2804
+  Dnscache
+ [svchost.exe]
+  UDP    [::]:5353              *:*                                    9748
+ [chrome.exe]
+  UDP    [::]:5353              *:*                                    10472
+ [chrome.exe]
+  UDP    [::]:5355              *:*                                    2804
+  Dnscache
+ [svchost.exe]
+  UDP    [::]:51763             *:*                                    3604
+ [dashost.exe]
+  UDP    [::]:54915             *:*                                    12416
+ [LCore.exe]
+  UDP    [::]:56270             *:*                                    3604
+ [dashost.exe]
+  UDP    [::]:56463             *:*                                    10180
+  FDResPub
+ [svchost.exe]
+  UDP    [::]:59126             *:*                                    11636
+ [TeamViewer_Service.exe]
+  UDP    [::1]:1900             *:*                                    4124
+  SSDPSRV
+ [svchost.exe]
+  UDP    [::1]:5353             *:*                                    11636
+ [TeamViewer_Service.exe]
+  UDP    [::1]:56697            *:*                                    4124
+  SSDPSRV
+ [svchost.exe]
+  UDP    [2620:9b::1921:6ca]:2177  *:*                                    4144
+  QWAVE
+ [svchost.exe]
+  UDP    [fe80::9bb:49fb:eea9:6563%26]:1900  *:*                                    4124
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::9bb:49fb:eea9:6563%26]:2177  *:*                                    4144
+  QWAVE
+ [svchost.exe]
+  UDP    [fe80::9bb:49fb:eea9:6563%26]:56695  *:*                                    4124
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::3848:badc:a709:99df%9]:1900  *:*                                    4124
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::3848:badc:a709:99df%9]:2177  *:*                                    4144
+  QWAVE
+ [svchost.exe]
+  UDP    [fe80::3848:badc:a709:99df%9]:56694  *:*                                    4124
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::3db1:22cf:616f:4960%31]:1900  *:*                                    4124
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::3db1:22cf:616f:4960%31]:2177  *:*                                    4144
+  QWAVE
+ [svchost.exe]
+  UDP    [fe80::3db1:22cf:616f:4960%31]:56696  *:*                                    4124
+  SSDPSRV
+ [svchost.exe]
