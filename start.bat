@@ -1,0 +1,1 @@
+python3 C:\Users\Xuhao\Documents\github\ParentControl\src\PSChecker.py
