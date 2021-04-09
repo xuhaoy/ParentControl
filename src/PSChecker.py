@@ -74,7 +74,16 @@ if __name__ == "__main__":
             today = datetime.datetime.now().strftime("%Y%m%d")
             # reset the number of tokens
             dayOfWeek = datetime.datetime.today().isoweekday()
-            tokensRemaining = NUM_WEEKDAY_TOKENS if (dayOfWeek < 5) else NUM_WEEKEND_TOKENS
+            if (tokensRemaining < 0):
+                tokensRemaining += NUM_WEEKDAY_TOKENS if (dayOfWeek < 5) else NUM_WEEKEND_TOKENS
+            else:
+                tokensRemaining = NUM_WEEKDAY_TOKENS if (dayOfWeek < 5) else NUM_WEEKEND_TOKENS
+            
+            # application state file
+            asf = open(LOGS_FOLDER_PATH + "state", "w")
+            asf.write(str(tokensRemaining))
+            asf.close()            
+            
         if (psChecker()):
             tokensRemaining -= 1
             
@@ -94,5 +103,5 @@ if __name__ == "__main__":
                 # ran out of tokens to play 
                 tokenSaturatedWarn(tokensRemaining)
                 # run script to kill offending processes
-
+                killOffendingProcesses()
         time.sleep(10)
