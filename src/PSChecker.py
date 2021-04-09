@@ -62,7 +62,7 @@ if __name__ == "__main__":
     if (path.exists(LOGS_FOLDER_PATH + "state")):
         # read the file and update the tokens remaining
         asf = open(LOGS_FOLDER_PATH + "state", "r")
-        tokensRemaining = int(asf.read())
+        tokensRemaining = int(float(asf.read()))
         asf.close()        
     
     # run every 5 seconds to check if a specified program is running
