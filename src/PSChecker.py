@@ -58,6 +58,7 @@ def isCurrentlyNoGamingTime():
     return ((timestamp < NINE_AM_STRING) or (timestamp > ELEVEN_PM_STRING))
 
 if __name__ == "__main__":
+    killOffendingProcesses()
     # open the previous log file
     # open the application state file
     dayOfWeek = datetime.datetime.today().isoweekday()
