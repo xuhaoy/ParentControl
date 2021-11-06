@@ -9,9 +9,9 @@ from os import path
 CHECK_INTERVALS = 10
 NUM_WEEKDAY_TOKENS = 2*3600 / 10
 NUM_WEEKEND_TOKENS = 3*3600 / 10
-LOGS_FOLDER_PATH = "C:/Users/Xuhao/Documents/github/ParentControl/logs/"
+LOGS_FOLDER_PATH = "C:/ParentControl/logs/"
 POWERSHELL_PATH = "C:/WINDOWS/system32/WindowsPowerShell/v1.0/powershell.exe"
-POWERSHELL_SCRIPTS_PATH = "C:/Users/Xuhao/Documents/github/ParentControl/Scripts/"
+POWERSHELL_SCRIPTS_PATH = "C:/ParentControl/Scripts/"
 ELEVEN_PM_STRING = "230000"
 NINE_AM_STRING = "090000"
 

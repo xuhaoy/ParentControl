@@ -1,4 +1,4 @@
-﻿$fileName = "C:\Users\Xuhao\Documents\github\ParentControl\logs\processes_"
+﻿$fileName = "C:\ParentControl\logs\processes_"
 
 $fileName += $(Get-Date -Format "yyyy/MM/dd-HHmmss")
 
@@ -8,3 +8,6 @@ ps > $fileName
 
 ps geforce*
 ps steam*
+ps minecraft*
+ps roblox*
+ps terraria*
