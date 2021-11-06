@@ -12,6 +12,8 @@ NUM_WEEKEND_TOKENS = 3*3600 / 10
 LOGS_FOLDER_PATH = "C:/Users/Xuhao/Documents/github/ParentControl/logs/"
 POWERSHELL_PATH = "C:/WINDOWS/system32/WindowsPowerShell/v1.0/powershell.exe"
 POWERSHELL_SCRIPTS_PATH = "C:/Users/Xuhao/Documents/github/ParentControl/Scripts/"
+ELEVEN_PM_STRING = "230000"
+NINE_AM_STRING = "090000"
 
 # run every 5 seconds to check if a specified program is running
 def psChecker():
@@ -49,7 +51,11 @@ def cleanLogs():
                            '-ExecutionPolicy',
                            'Unrestricted',
                            POWERSHELL_SCRIPTS_PATH + 'cleanLogs.ps1'], stdout=subprocess.PIPE)
-    result = ps.wait()    
+    result = ps.wait()
+
+def isCurrentlyNoGamingTime():
+    timestamp = datetime.datetime.now().strftime("%H%M%S")
+    return ((timestamp < NINE_AM_STRING) or (timestamp > ELEVEN_PM_STRING))
 
 if __name__ == "__main__":
     # open the previous log file
@@ -103,5 +109,8 @@ if __name__ == "__main__":
                 # ran out of tokens to play 
                 tokenSaturatedWarn(tokensRemaining)
                 # run script to kill offending processes
+                # killOffendingProcesses()
+                
+            if isCurrentlyNoGamingTime():
                 killOffendingProcesses()
         time.sleep(10)
